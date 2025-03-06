@@ -3,8 +3,9 @@
 โปรเจคนี้เป็นการพัฒนาโปรแกรมในรายวิชา **Object-Oriented Programming (OOP)** ซึ่งมีชื่อโปรเจคว่า **Pocket Money** โดยแอปพลิเคชันนี้มีฟังก์ชันการทำงานที่คล้ายคลึงกับการจัดการบัญชีธนาคารและการทำธุรกรรมทางการเงินต่างๆ เช่น การฝากเงิน โอนเงิน ถอนเงิน และการเช็คยอดเงิน แอปพลิเคชันนี้ได้พัฒนาความรู้และประสบการณ์จากการเรียนการสอนในห้องเรียน ซึ่งสามารถนำไปต่อยอดพัฒนาเป็นแอปพลิเคชันที่มีฟังก์ชันที่หลากหลายมากยิ่งขึ้นในอนาคต
 
 ## เครื่องมือที่ใช้ในการพัฒนา
-- **Eclipse IDE Version:** 2022-09 (4.25.0) ![Eclipse Icon](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Eclipse-Logo-Black.svg/120px-Eclipse-Logo-Black.svg.png)
+- **Eclipse IDE Version:** 2022-09 (4.25.0) ![Eclipse Icon](https://upload.wikimedia.org/wikipedia/commons/9/98/Eclipse_Logo.svg)
 - **ภาษาโปรแกรม:** Java ![Java Icon](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Java_logo_icon.png/120px-Java_logo_icon.png)
+
 
 
 ## ฟังก์ชันหลักของแอปพลิเคชัน
